@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Paralelismo.Negocio", "Paralelismo.Negocio\Paralelismo.Negocio.csproj", "{CD5D24D0-1621-4BEC-8440-A7D8EC6F3F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralelismo.Consola", "Paralelismo.Consola\Paralelismo.Consola.csproj", "{27EF6DEB-C778-4FCB-8D72-430118A7A439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD5D24D0-1621-4BEC-8440-A7D8EC6F3F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5D24D0-1621-4BEC-8440-A7D8EC6F3F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5D24D0-1621-4BEC-8440-A7D8EC6F3F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5D24D0-1621-4BEC-8440-A7D8EC6F3F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27EF6DEB-C778-4FCB-8D72-430118A7A439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EF6DEB-C778-4FCB-8D72-430118A7A439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EF6DEB-C778-4FCB-8D72-430118A7A439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27EF6DEB-C778-4FCB-8D72-430118A7A439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE765D8-016B-46B2-BA6D-7A8900B88652}
+	EndGlobalSection
+EndGlobal
